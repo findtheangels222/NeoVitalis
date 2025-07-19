@@ -1,0 +1,74 @@
+<!DOCTYPE html>    
+<html lang="pt-br">    
+<head>    
+  <meta charset="UTF-8">    
+  <title>NeoVitalis [FORA DO AR]</title>    
+  <style>    
+    body {    
+      background-color: #000;    
+      color: #00ff99;    
+      font-family: 'Courier New', Courier, monospace;    
+      padding: 20px;    
+    }    
+    .glitch {    
+      color: red;    
+      text-shadow: 1px 0 0 #0f0, -1px 0 0 #00f;    
+    }    
+    a {    
+      color: #00ffff;    
+      text-decoration: none;    
+    }    
+    a:hover {    
+      text-decoration: underline;    
+    }    
+    .alerta {    
+      border: 1px solid #00ff99;    
+      padding: 15px;    
+      margin: 20px 0;    
+      color: #ff5555;    
+    }    
+    .bloco-links {    
+      margin-top: 20px;    
+    }    
+    footer {    
+      margin-top: 40px;    
+      font-size: 12px;    
+      color: #009966;    
+    }    
+  </style>    
+</head>    
+<body>    
+    
+  <h1><span class="glitch">NeoVitalis [FORA DO AR]</span></h1>    
+  <h2>Instituto Psiquiátrico Experimental</h2>    
+  <p><em>"Por trás da cura, há sempre uma causa."</em></p>    
+    
+  <div class="alerta">    
+    <strong>AVISO:</strong> Este site foi comprometido.<br>    
+    Algumas informações podem ter sido removidas ou alteradas.<br>    
+    Último acesso registrado: <strong>06/08/2396</strong>    
+  </div>    
+    
+  <div class="bloco-links">    
+    <h3>Arquivos Resgatados</h3>    
+    <ul>    
+      <li>
+        <strong>Registros de Paciente:</strong>
+        <ul>
+          <li><a href="https://drive.google.com/file/d/1-HhKib8PSGHNbo1oRiOdXJMc0LOF0Dx8/view?usp=drivesdk" target="_blank">registro_01.pdf</a></li>    
+          <li><a href="https://drive.google.com/file/d/1-HY5y5qTiunb4x5IQxf_87pFf7B9PQZ0/view?usp=drivesdk" target="_blank">registro_02.pdf</a></li>    
+          <li><a href="https://drive.google.com/file/d/1-HW4xnsarPLWxGwJiSyc4iCbUGmDDPyW/view?usp=drivesdk" target="_blank">registro_03.pdf</a></li>    
+        </ul>
+      </li>    
+      <li><a href="https://seulink.com/notas_dr_renard.zip" target="_blank">notas_dr_renard.zip</a></li>    
+      <li><a href="https://seulink.com/audio_sala_vermelha.mp3" target="_blank">audio_sala_vermelha.mp3</a></li>    
+      <li><a href="https://seulink.com/acesso_restrito" target="_blank">Acesso Restrito ∆98</a></li>    
+    </ul>    
+  </div>    
+    
+  <footer>    
+    NeoVitalis © 2234 - 2397 | Todos os direitos reservados sob cláusula NS-R.51    
+  </footer>    
+    
+</body>    
+</html>
